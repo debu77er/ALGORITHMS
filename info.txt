@@ -15,3 +15,13 @@ there are many different ways to solve basic problems e.g. getting number digits
 everything can be solved by graphs because everything is a graph,
 so graph algorithms mastering can be very useful - e.g. an 1D array is 1D line graph
 but it may be interpreted as a dictionary or as a linked list - one or two directional
+
+during programming competition everything must be written from a stub without any external library
+real language text algorithms should take input of a whole sentence and cut it into not words but [whole meaning few word terms]
+
+to do that it must be a dictionary list of every word and it's type - noun, adjective, verb, adverb and so on
+so when some adjective stands next to some noun that means they create a [compound term]
+
+text can be also generated (in opposite direction) using this by taking one adjective and concatenating it with one noun
+
+answering questions, asking questions (two way function), telling something without being asked for
