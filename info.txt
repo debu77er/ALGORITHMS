@@ -25,3 +25,13 @@ so when some adjective stands next to some noun that means they create a [compou
 text can be also generated (in opposite direction) using this by taking one adjective and concatenating it with one noun
 
 answering questions, asking questions (two way function), telling something without being asked for
+
+gathering info and making from them series or even loops and combining those info info 2D arrays like crosswords
+
+days of the week: [monday] [tuesday] .... [sunday] and so on
+
+knowing info properties and grouping info by some criteria like in SQL
+
+the most elementar algorithms are [divide info into smaller pieces - analysis] and [build something more complex - synthesis]
+
+creating system that is [consistent] and [complete] by constant checking sources
