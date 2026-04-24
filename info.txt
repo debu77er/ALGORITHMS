@@ -1,0 +1,17 @@
+creating basic functions solving fundamental problems
+that can be later used to solve
+more complex problems
+by more complex functions consisting of those basic functions
+that can be later used to solve
+the most comples problems
+by the most complex functions consisting of those less complex functions that consist of basic functions
+(something like finding the smallest element from which everything is built)
+
+having prepared those basic functions and more comple funtions is reducing time needed to solve complex problems
+can you have your own libraries in programming contests?
+
+there are many different ways to solve basic problems e.g. getting number digits can be made by %10, %100 and so on or by converting int to char array
+
+everything can be solved by graphs because everything is a graph,
+so graph algorithms mastering can be very useful - e.g. an 1D array is 1D line graph
+but it may be interpreted as a dictionary or as a linked list - one or two directional
