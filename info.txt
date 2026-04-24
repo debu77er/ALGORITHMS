@@ -35,3 +35,8 @@ knowing info properties and grouping info by some criteria like in SQL
 the most elementar algorithms are [divide info into smaller pieces - analysis] and [build something more complex - synthesis]
 
 creating system that is [consistent] and [complete] by constant checking sources
+
+some terms are very frequently used in a given combination [phraseological units] - analysis of big data is needed to recognise that
+or
+taking a definition from some dictionary - learning by your own reasoning or learning from a source with definitions
+but learning from a source with definitions is dangerous, because definition may be wrong so learning entity should be critical - compare info
