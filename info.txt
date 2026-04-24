@@ -1,3 +1,5 @@
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page
+
 creating basic functions solving fundamental problems
 that can be later used to solve
 more complex problems
@@ -40,3 +42,11 @@ some terms are very frequently used in a given combination [phraseological units
 or
 taking a definition from some dictionary - learning by your own reasoning or learning from a source with definitions
 but learning from a source with definitions is dangerous, because definition may be wrong so learning entity should be critical - compare info
+
+Without knowing anything about english language is it possible to figure out which word is a noun and which one is a verb?
+
+is every word a noun or a verb like division into static and dynamic like 3D without time and 4D with time - some change - to campare
+
+3D may be also comparable flower A and flower B but the best comparison is flower A in some time T1 and flower A in some time T2
+
+
