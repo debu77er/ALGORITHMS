@@ -45,6 +45,10 @@ but learning from a source with definitions is dangerous, because definition may
 
 Without knowing anything about english language is it possible to figure out which word is a noun and which one is a verb?
 
+ing may be induced from many examples. AI: what is the beginning and what is the ending? e.g. a capital letter and a dot
+
+AI: look what is perpetual what repeats many times - something like Fourier transform
+
 is every word a noun or a verb like division into static and dynamic like 3D without time and 4D with time - some change - to campare
 
 3D may be also comparable flower A and flower B but the best comparison is flower A in some time T1 and flower A in some time T2
