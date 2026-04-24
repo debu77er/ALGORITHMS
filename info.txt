@@ -53,4 +53,74 @@ is every word a noun or a verb like division into static and dynamic like 3D wit
 
 3D may be also comparable flower A and flower B but the best comparison is flower A in some time T1 and flower A in some time T2
 
+/////////////////////////////////
+
+what is [source code] and what is [executable]
+
+        [induction]               [deduction]
+
+observing the nature is like observing executable - source code (general rules) are unknown but can be guessed by many observations
+
+before rain earthworms dig some earth out, birds fly low
+
+[source code] is set of general rules: what are there? terms, definitions, ifs, loops, IN to set, OUT of set
+
+declare, create variable means create it's [name], alter it, delete it means delete it's [name]
+
+assign value from a set of all possibilities
+
+* and -------
+
+check if there is any relation between A and B //all possible relations: SET, SUBSET, IN, OUT, TIME, IF, LOOP        MULTIPLICATION IS LOOPED IN
+
+
+
+RULE in form of equation      V = S/T       IN--S----> l
+                                            IN--T----> l----OUT---> V             2 input 1 output           many input only 1 output   like in neuron
+
+pV=nRT     p=nRT/V      it may be 5 inputs but only 4 are used, the output is the one that was not used         //also in fuzzy logic
+
+multiplying can be drawn as loops, the same dividing       --- source code of nature that can be observed as executable
+
+self learning system        A > B
+
+IF is building dictionary ACTION - REACTION       IF (A) THEN (B)   A ---> B       but not always    B ----> A    sometimes one way
+ELSE is simply IF (NOT A) THEN ...    
+
+NO INFLUENCE BETWEEN A AND B     IF (A) THEN B,    IF (NOT A) THEN also B
+
+simplest logical gate is 1 input 1 output
+
+it may be unlimited inputs and 1 output    but the [state] of this 1 output may differ       --- reason why people dont understand neural network scheme
+
+VENN DIAGRAMS
+
+per analogiam  triangles ~ or even ===     a contrario NOT
+
+special per analogiam a maiori ad minus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
