@@ -16,6 +16,10 @@ a small animal with fur, four legs, and a tail that is kept as a pet
 // only nouns:
 [cat] - a small [animal] with [fur], four [legs], and a [tail] that is kept as a [pet]
 
+[four] - the [number] 4        // a number is not a noun it's a numeral, an idea because it's not real object it may be assigned to any group of 4 objects, its a label
+
+first AI should have built in list of all nouns and possibility to find them in a sentence, later also with some mistakes like one letter missing one letter misspelled
+
 
 of, of the meaning X belongs to Y
 
