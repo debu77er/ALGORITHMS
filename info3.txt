@@ -67,6 +67,21 @@ Why water is wet?      X is Y BECAUSE ......
 
 SONG: WHY? WHY? WHY?
 
+---------------------------
+
+https://looptube.io/?videoId=rDHmC0eqS_w&start=114.61563902189353&end=133.86029411764693&rate=1
+
+SET IN OUT:
+
+-------- INNER STRUCTURE
+
+-------- OUTHER STRUCTURE
+
+-------- TIME STRUCTURE
+
+---------------------------
+
+namespaces    term X (in) using namespace Y
 
 ---------------------------
 
