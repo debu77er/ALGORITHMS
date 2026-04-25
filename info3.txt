@@ -13,3 +13,57 @@ LOOP
 LOOP
 IF
 
+KNOWLEDGE IS A LOT OF DEFINITIONS AND REASONING
+
+[cat] is [mammal]
+
+[mammal] is [animal]          definitions are building hierarchical structure   animal.mammal.cat      //let say noun structure
+
+
+[egg] is previous form of [chicken] 
+
+[chicken] is previous form of [hen] or [rooster]        definitions are building let's say time structure  [egg]-[chicken]---[hen]
+                                                                                                                          |
+                                                                                                                          ---[rooster]
+ every object can be elementary moddeled in time structure with two list first: [all possible previous forms] - [object] - [all possible next forms]
+
+but there is some AMBIGUITY 
+
+[all possible previous forms]  is not the same as [all ingredients]  e.g.  [hen]+[rooster] --> [chicken]    hen.ovary + rooser.semen   + PLACE where it happens e.g. FACTORY like making pizza and OVEN
+
+--------------------------
+
+SIMPLEST REASONING IMPLEMENTATION
+
+EVERY IF IS    * ----------- *    a single relation the same as definition     * --------------- *
+
+DEER is BROWN or DEER is WHITE  but never DEER is BLUE
+
+[NEGATIVE DEFINITION PROBLEM]       AI must check all possibilities to build a negative definition - if AI find an example, then it should update database   [ALL POSSIBLE KNOWN COLORS OF STH]
+
+
+EXAMINING INFLUENCE:
+
+IF A then B
+
+but IF NOT A then B     means that A doesn't have influence on B         //    ############### very important for reasoning         find counterexample when NOT A also results in B    
+
+sometimes it may be IF NOT A then NOT B   and sometimes  IF NOT A then B        // then it is a sign that there is SOME OTHER FACTOR  AI: find it
+
+
+---------------------------
+
+every C, C++, JAVA program have similar general structure - adding libraries is done at the beginning
+
+
+
+
+
+
+
+
+
+
+
+
+
