@@ -8,6 +8,13 @@ It is valued as a pet for its gentle nature, ability to hunt rodents, and indepe
 It is characterized by a [slender body], [pointed ears], a [flexible body], and [sharp claws]. 
 It is valued as a pet for its gentle nature, ability to hunt rodents, and independence.
 
+cat
+noun [ C ]
+a small animal with fur, four legs, and a tail that is kept as a pet
+
+// AI: the first thing to do is to identify every word in a sentence: noun, verb, adjective, adverb
+// only nouns:
+[cat] - a small [animal] with [fur], four [legs], and a [tail] that is kept as a [pet]
 
 
 of, of the meaning X belongs to Y
