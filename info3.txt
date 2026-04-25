@@ -50,6 +50,23 @@ but IF NOT A then B     means that A doesn't have influence on B         //    #
 
 sometimes it may be IF NOT A then NOT B   and sometimes  IF NOT A then B        // then it is a sign that there is SOME OTHER FACTOR  AI: find it
 
+---------------------------
+
+------ VERY IMPORTANT BETWEEN PROBLEM --------
+
+[cat] is [animal]     it's true but the range of term [animal] is very wide
+
+[cat] is [mammal], [mammal] is [animal]      // THERE MAY BE ALWAYS SOMETHING BETWEEN
+
+[egg] evolves into [hen] it's true, but there is also some other phase between
+
+[egg] evloves into [chicken], [chicken] evolves into [hen]    // AI should ask, check, find if there is something between
+                                                              // AI should ask "what else can it evolve into?" to find all possible relations   and WHY YES and WHY NOT
+
+Why water is wet?      X is Y BECAUSE ......
+
+SONG: WHY? WHY? WHY?
+
 
 ---------------------------
 
