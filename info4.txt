@@ -26,3 +26,5 @@ also previous forms and next forms
 ORDER of creation
 
 DEFINITION IS serialized GRAPH      knowledge is a GRAPH knowning about all VERTEXES and EDGES and about ORDER is a real knowledge   "But HOW?"  order is needed: first do... then do ... finally do ...
+
+AI learning on [BIG DATA] on many examples - then see what is repetitive (Fourier transform)
