@@ -12,3 +12,29 @@
 [term1] --- [term2] --- [term3] --- [term4] --- repeat              //2D graph modelling set changes in time (subsets, supersets)
    |                       |
 [subterm]             [subterm3]
+
+
+// serialization, deserialization
+
+How to model that SET_A belongs to SET_B and belongs to SET_C and SET_D belongs to SET_A      //how to model one direction relation?  names order
+
+SET_B SET_A     or SET_B.SET_A           B--------A
+
+all paths to leafs or only elementar paths?      or mixed  one main path and then additional subpaths - it will be quicker
+
+SET_B.SET_A.SET_D
+SET_C.SET_A.SET_D
+
+or
+
+SET_B.SET_A
+SET_C.SET_A
+SET_A.SET_D
+
+or 
+
+SET_B.SET_A.SET_D
+SET_C.SET_A
+
+
+
