@@ -1,0 +1,15 @@
+templates of all algorithms
+
+algorithm is a 2D graph that is written in 1D source code
+
+only 2D is needed not 3D so 2D array can model everything
+
+a contrario - is there any 3D graph that cannot be modelled in 2D? everything can be moddeled in 2D screen even 3D
+
+DEFINITION
+DEFINITION
+LOOP
+LOOP
+LOOP
+IF
+
