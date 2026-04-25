@@ -18,7 +18,7 @@
 
 How to model that SET_A belongs to SET_B and belongs to SET_C and SET_D belongs to SET_A      //how to model one direction relation?  names order
 
-SET_B SET_A     or SET_B.SET_A           B--------A
+SET_B SET_A     or SET_B.SET_A      or  SET_B/SET_A   like www          B--------A
 
 all paths to leafs or only elementar paths?      or mixed  one main path and then additional subpaths - it will be quicker
 
