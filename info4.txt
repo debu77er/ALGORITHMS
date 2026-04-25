@@ -18,3 +18,11 @@ X is Y   AMBIGUATION     X===Y   or X belongs to Y
 DEFINITION may be INCOMPLETE
 
 there may be few different DEFINITIONS
+
+whole structure should be described by GRAPH - how parts are connected
+
+also previous forms and next forms 
+
+ORDER of creation
+
+DEFINITION IS serialized GRAPH      knowledge is a GRAPH knowning about all VERTEXES and EDGES and about ORDER is a real knowledge   "But HOW?"  order is needed: first do... then do ... finally do ...
