@@ -1,0 +1,15 @@
+AI reasoning from a definition
+
+cat is a small predatory mammal of the Felidae family, domesticated for thousands of years. 
+It is characterized by a slender body, pointed ears, a flexible body, and sharp claws. 
+It is valued as a pet for its gentle nature, ability to hunt rodents, and independence.
+
+[cat] is a [small predatory mammal] of the [Felidae family], domesticated for thousands of years. 
+It is characterized by a [slender body], [pointed ears], a [flexible body], and [sharp claws]. 
+It is valued as a pet for its gentle nature, ability to hunt rodents, and independence.
+
+
+
+of, of the meaning X belongs to Y
+
+X is Y   AMBIGUATION     X===Y   or X belongs to Y
