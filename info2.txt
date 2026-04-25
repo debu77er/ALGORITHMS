@@ -1,0 +1,14 @@
+* ------ *
+
+[term] --- [definition]
+
+[term1] --- [term2] --- [term3] --- [term4] --- repeat   // 1D structure that is modelling a loop
+
+
+
+
+[super]               [superterm3]
+   |                       |
+[term1] --- [term2] --- [term3] --- [term4] --- repeat              //2D graph modelling set changes in time (subsets, supersets)
+   |                       |
+[subterm]             [subterm3]
